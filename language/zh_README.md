@@ -1,4 +1,4 @@
-# 壹印
+[English](https://github.com/bdxcc/XCCsy/README.md)
 
 > 这是一个直接生成图片印框的工具
 >
