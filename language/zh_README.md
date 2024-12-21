@@ -1,4 +1,4 @@
-[English](https://github.com/bdxcc/XCCsy/README.md)
+[English](https://github.com/bdxcc/XCCsy/blob/master/README.md)
 
 > 这是一个直接生成图片印框的工具
 >
