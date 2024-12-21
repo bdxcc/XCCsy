@@ -1,4 +1,4 @@
-[中文](https://github.com/bdxcc/XCCsy/language/zh_README.md)
+[中文](https://github.com/bdxcc/XCCsy/blob/master/language/zh_README.md)
 
 >This is a tool that directly generates image borders
 >
